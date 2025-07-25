@@ -7,7 +7,6 @@
 - [Files Included](#files-included)  
 - [Setup and Usage](#setup-and-usage)  
 - [Notes](#notes)  
-- [Author](#author)  
 
 ---
 
