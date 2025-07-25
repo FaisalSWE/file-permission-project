@@ -40,7 +40,7 @@ This project focuses on understanding Linux file permissions and visually repres
 
 3. The script sets the file permissions to `rwxrwxr-x` (775) and prints a confirmation message, e.g.:
    ```bash
-   Permissions changed to rwxrwxr-x (775) for: example.py
+   Permissions changed to rwxrwxr-x (777) for: example.py
    ```
 ## Notes
 
